@@ -1,0 +1,9 @@
+I am going to use 3 datasets for training the summarization model.
+
+1. CNN/Daily Mail Dataset
+2. New York Times Annotated Corpus
+3. XSum Dataset
+
+The CNN/Daily Mail dataset can be downloaded manually from Kaggle.
+The complete dataset can be found here - https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail/data
+
